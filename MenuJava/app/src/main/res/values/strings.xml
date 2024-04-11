@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MenuJava</string>
+
+    <string-array name="opciones_imagenes">
+        <item>Imagen 1</item>
+        <item>Imagen 2</item>
+        <item>Imagen 3</item>
+    </string-array>
+
+</resources>
+
